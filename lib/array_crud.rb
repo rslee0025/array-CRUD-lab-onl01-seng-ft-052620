@@ -7,9 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  famous_cats = ["Garfield", "Puss in Boots", "Simba", "Cat in the Hat"]
-  new_cat = "Duchess"
-  famous_cats.push(new_cat)
+ 
 end
 
 def add_element_to_start_of_array(array, element)
