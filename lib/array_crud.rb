@@ -8,8 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   famous_cats = ["Garfield", "Puss in Boots", "Simba", "Cat in the Hat"]
-  famous_cats << "Duchess"
-  puts famous_cats.inspect
+  famous_cats.push("Duchess")
 end
 
 def add_element_to_start_of_array(array, element)
